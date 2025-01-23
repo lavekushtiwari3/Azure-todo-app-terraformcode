@@ -2,7 +2,7 @@
 
 Welcome to azure-todo-app-terraform! This repository contains Terraform configurations to deploy a todo-app on the Azure cloud platform.
 
-## Folder Structure 📁
+## Terraform Folder Structure 📁
 
 ```
 azure-todo-app-terraform/
